@@ -9,8 +9,6 @@ const Home: NextPage = () => {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main className="">
         
         {/* <!-- Hero --> */}
         <section className="body-font bg-slate-900 text-gray-400">
@@ -159,7 +157,6 @@ const Home: NextPage = () => {
           </div>
         </section>
 
-      </main>
 
       <footer className="flex h-24 w-full items-center justify-center border-t">
         <a
